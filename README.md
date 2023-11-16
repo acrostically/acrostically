@@ -12,3 +12,17 @@
 - 📫 How to reach me **acrostic on discord**
 
 - ⚡ Fun fact **I prefer js over ts**
+
+<h1 align="center">(most) Tools I use</h1>
+
+- [Detect It Easy](https://github.com/horsicq/Detect-It-Easy)
+- [dnSpy](https://github.com/dnSpy/dnSpy)
+- [dotPeek](https://www.jetbrains.com/decompiler/)
+- [hxd](https://mh-nexus.de/en/hxd/)
+- [IDA Pro](https://hex-rays.com/ida-pro/)
+- [CFF explorer](https://ntcore.com/?page_id=388)
+- [process monitor](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon)
+- [x64dbg](https://x64dbg.com/)
+- [ghidra](https://ghidra-sre.org/)
+- [recaf](https://github.com/Col-E/Recaf)
+- [threadtear](https://github.com/GraxCode/threadtear)
